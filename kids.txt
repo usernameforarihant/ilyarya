@@ -1,1 +1,1 @@
-names:{chinki,minki} both girls
+names:{chinki,minki} both girls (3 expected)
